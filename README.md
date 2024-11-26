@@ -9,7 +9,8 @@ A new Flutter project.
 При клик на картичката, производот се отвара во нов екран, каде се прикажуваат деталите за тој производ (име, слика, опис, цена). Боите и дизајнот нека бидат по ваш избор.
 
 Прикачете го Вашиот финален код со линк на Github (репозиториумот да биде јавен).
-![download](https://github.com/user-attachments/assets/4a04c4a3-fdac-44a6-9e0b-4d6094ebadba)
+![download (1)](https://github.com/user-attachments/assets/2dcebe3f-c3cf-40c0-a0e1-23be32aad13d)
+
 
 
 
